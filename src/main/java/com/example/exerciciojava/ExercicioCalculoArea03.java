@@ -16,5 +16,7 @@ public class ExercicioCalculoArea03 {
         System.out.printf("A área do seu círculo é igual à: %.4f \n", area );
         //Print F pra conseguir definir as o valor dos decimais (números depois do ponto)
 
+        sc.close();
+
     }
 }
